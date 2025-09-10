@@ -60,7 +60,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 - **Top 5 Cities**
 - **Duraton Table**
 - **Category Sales**
-
+- <a href="https://github.com/Femi-Valor/furniture-sales/blob/main/furnitures%20c.sql"> SQL Queries Format
 ---
 
 ### Data Modelling
@@ -72,7 +72,9 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 ## Dashboard Features
 - **Interactive Filters**: Users can explore data by Region, State, City, Category, Sub-Category, and Ship Mode for flexible analysis.
 - **Visualizations**: The dashboard includes trend lines, bar charts, pie charts, and maps to display sales distribution, profit patterns, and shipping insights.
-- **KPI Highlight Cards**: At-a-glance metrics for Total Sales, Total Profit, Quantity Sold, and YoY comparisons.
+- **KPI Highlight Cards**: At-a-glance metrics for Total Sales, Total Profit, Quantity Sold, and YoY comparisons, Using DAX Formula for the YoY.
+<img width="468" height="277" alt="Screenshot 2025-09-10 212337" src="https://github.com/user-attachments/assets/267457d5-9ec8-4a1b-883a-e6e200e1995c" />
+
 - **Category & Product Analysis**: Breakdowns by category and sub-category reveal top and bottom performers, including loss-making products.
 - **Geographic Insights**:State and city level maps highlight sales hotspots and underperforming regions.
 - **Customer Segments**: Analysis by Consumer, Corporate, and Home Office segments to uncover profitability trends.
