@@ -83,7 +83,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 - **Dynamic Insights**: All visuals update instantly based on user selections, supporting scenario-based decision making.
 <img width="997" height="553" alt="Screenshot 2025-09-10 212036" src="https://github.com/user-attachments/assets/5ea1a710-f1ac-4c72-83cc-9becf6f377cf" />
 
-  - <a href="https://github.com/Femi-Valor/furniture-sales-power-bi/blob/main/funiture%20sales%20c.xlsx"> Live Interaction
+  - <a href="https://github.com/Femi-Valor/furniture-sales/blob/main/furniture%20power%20bi.pbix"> Live Interaction
 
 
 ---
