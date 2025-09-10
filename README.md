@@ -40,7 +40,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 17. **Product ID**: Unique identifier for each product.
 18. **Profit**: Profit from the line item (can be negative).
 19. **Month**: Month label derived from Order Date for time analysis.
- - <a href="https://github.com/Femi-Valor/furniture-sales-power-bi/blob/main/Furniture_Sales.csv"> Raw Data
+ - <a href="https://github.com/Femi-Valor/furniture-sales"> Raw Data
     
 ---
 
