@@ -64,6 +64,7 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 ---
 
 ### Data Modelling
+Connected my sql to power-bi,
 
 <img width="724" height="527" alt="Screenshot 2025-09-10 212147" src="https://github.com/user-attachments/assets/6ac10b50-a851-4d32-9d96-43756eeedf4b" />
 
@@ -91,12 +92,11 @@ The raw data for this dashboard includes a comprehensive dataset of the furnitur
 ---
 
 ## Key Metrics
-1. **Total Sales**: $742.0k
-2. **Total Profit**: $18.5k
-   - Profit Margin: ~57%
-3. **Total Quantity Sold**: 8.0k units
+1. **Total Sales**: $733.0k
+2. **Total Profit**: $16.98k
+3. **Total Quantity Sold**: 7.86k units
 4. **Top Sub-Category by Sales: Chairs** (highest revenue contributor)
-5. **Shippng Duration**: 4-days (~28%)
+5. **Shippng Duration**: 4-days (~28.45%)
 6. **Top Region by Sales**: West (largest revenue and profit contributor)
 7. **Top State by Sales**: California
 8. **Most Used Ship Mode**: Standard Class (~59% of all orders)
